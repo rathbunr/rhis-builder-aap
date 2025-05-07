@@ -2,7 +2,6 @@
 # These are the collections required by the builder
 collections:
   - name: "ansible.controller"
-    version: "4.5.7"
   - name: "ansible.netcommon"
   - name: "ansible.posix"
   - name: "ansible.utils"
